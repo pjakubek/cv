@@ -7,8 +7,8 @@
 
 ## 📈 Auf einen Blick
 - Ergebnisorientierter **Operations Manager** mit unternehmerisch-strategischem Mindset
-- <u>Resultate:</u> Nachhaltige **Führung** mittelgroßer Teams | Signifikante, abteilungsübergreifende **Prozessoptimierung** | Effektive **Betreuung** von **Key-Accounts** | **Gesamtverantwortung** über Sortiment eines Online-Marktplatzes (> 2 Mio.)
-- Ausgeprägtes **Kommunikations**- und **Organisationsvermögen** | **Durchsetzungskraft** inkl. **Durchhaltevermögen** | Bewährtes **Verhandlungsgeschick** | umfangreiches **techn. Know-How**
+- <u>Resultate:</u> Nachhaltige **Führung** mittelgroßer Teams / Signifikante, abteilungsübergreifende **Prozessoptimierung** / Effektive **Betreuung** von **Key-Accounts** / **Gesamtverantwortung** über Sortiment eines Online-Marktplatzes (> 2 Mio.)
+- Ausgeprägtes **Kommunikations**- und **Organisationsvermögen** / **Durchsetzungskraft** inkl. **Durchhaltevermögen** / Bewährtes **Verhandlungsgeschick** / umfangreiches **techn. Know-How**
 <br><br>
 
 ## 💻 Berufserfahrung 
