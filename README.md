@@ -1,8 +1,8 @@
-# Peter Jakubek <img src="https://i.imgur.com/pJAqMf4.png" style="max-height:105px;float:right;">
+# Peter Jakubek <img src="https://i.imgur.com/pJAqMf4.png" style="max-height:110px;float:right;">
 ☎️ +43 650 420 7472 <br>
 📧 peter.jakubek@outlook.com <br>
 🏠 Vorgartenstraße 128, 1020 Wien
-___
+<hr>
 <br><br>
 
 ## Berufserfahrung
@@ -21,6 +21,6 @@ ___
 🇺🇸 **Englisch**: C1
 <br><br>
 ## Ausbildung
-Informationstechnologie @ **HTBLuVA TGM Wien** (2010-2016) <br>
+**Informationstechnologie** @ HTBLuVA TGM Wien (2010-2016) <br>
 
 **Rettungssanitäter** @ Arbeiter Samariterbund (2016-2017)
