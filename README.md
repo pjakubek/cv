@@ -5,22 +5,27 @@
 <hr>
 <br><br>
 
-## Berufserfahrung
-**Leitung Onboarding & Produktdatenmanagement** @ Post E-Commerce GmbH - shöpping.at (Jänner 2022 - heute)
+## 💻 Berufserfahrung 
+**Leitung Onboarding & Produktdatenmanagement** (Jänner 2022 - heute)<br> 
+Post E-Commerce GmbH - shöpping.at  <br>
 
-**Senior Onboarding Manager** @ Post E-Commerce GmbH - shöpping.at (Jänner 2021 - Dezember 2021)
+**Senior Onboarding Manager** (Jänner 2021 - Dezember 2021)<br>
+Post E-Commerce GmbH - shöpping.at 
 
-**Onboarding Manager** @ Post E-Commerce GmbH - shöpping.at (Oktober 2018 - Dezember 2020)
+**Onboarding Manager** (Oktober 2018 - Dezember 2020)<br>
+Post E-Commerce GmbH - shöpping.at 
 
-**Projekt Manager** @ Sonderwunsch Meister GmbH (Mai 2018 - Oktober 2018)
+**Projekt Manager** (Mai 2018 - Oktober 2018) <br>
+Sonderwunsch Meister GmbH 
 
-**Software Engineer** @ Lunatone Industrielle Elektronik GmbH (Oktober 2017 - März 2018)
+**Software Engineer** (Oktober 2017 - März 2018)<br>
+Lunatone Industrielle Elektronik GmbH (Oktober 2017 - März 2018)
 <br><br>
-## Sprachen
+## 💬 Sprachen 
 🇩🇪 **Deutsch**: Muttersprache <br>
 🇺🇸 **Englisch**: C1
 <br><br>
-## Ausbildung
+## 📚 Ausbildung
 **Informationstechnologie** @ HTBLuVA TGM Wien (2010-2016) <br>
 
 **Rettungssanitäter** @ Arbeiter Samariterbund (2016-2017)
