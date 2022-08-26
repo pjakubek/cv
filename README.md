@@ -41,6 +41,7 @@
 - Content Management
 - Entwicklung Smarthome Desktop-App
 <br><br>
+
 ## 🔨 Kenntnisse
 |||||
 |--|--|--|--|
@@ -49,7 +50,9 @@
 |Data Analysis|⭐⭐⭐⭐⭐|R|⭐⭐⭐⭐⭐|
 |Datenbanken SQL/NoSQL|⭐⭐⭐⭐⭐|Softwareentwicklung|⭐⭐⭐⭐|
 |Power BI|⭐⭐⭐⭐|Information Design|⭐⭐⭐⭐|
+
 <br>
+
 ## 💬 Sprachen 
 🇩🇪 **Deutsch**: Muttersprache <br>
 🇺🇸 **Englisch**: C1
