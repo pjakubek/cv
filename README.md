@@ -1,4 +1,4 @@
-# Peter Jakubek <img src="https://i.imgur.com/pJAqMf4.png" style="max-height:130px;float:right;">
+## <b>Peter Jakubek</b> <img src="https://i.imgur.com/pJAqMf4.png" style="max-height:130px;float:right;">
 ☎️ +43 650 420 7472 <br>
 📧 peter.jakubek@outlook.com <br>
 🏠 Vorgartenstraße 128, 1020 Wien
@@ -7,25 +7,39 @@
 
 ## 📈 Auf einen Blick
 - Ergebnisorientierter **Operations Manager** mit unternehmerisch-strategischem Mindset
-- <u>Resultate:</u> Nachhaltige **Führung** mittelgroßer Teams / Signifikante, abteilungsübergreifende **Prozessoptimierung** / Effektive **Betreuung** von **Key-Accounts** / **Gesamtverantwortung** über Sortiment eines Online-Marktplatzes (> 2 Mio.)
+- Nachhaltige **Führung** kleiner bis mittelgroßer Teams / Signifikante, abteilungsübergreifende **Prozessoptimierung** / Effektive **Betreuung** von **Key-Accounts** / **Gesamtverantwortung** über Sortiment eines Online-Marktplatzes (> 2 Mio.)
 - Ausgeprägtes **Kommunikations**- und **Organisationsvermögen** / **Durchsetzungskraft** inkl. **Durchhaltevermögen** / Bewährtes **Verhandlungsgeschick** / umfangreiches **techn. Know-How**
 <br><br>
 
 ## 💻 Berufserfahrung 
-**Leitung Onboarding & Produktdatenmanagement** (Jänner 2022 - heute)<br> 
-Post E-Commerce GmbH - shöpping.at  <br>
+**Leitung Onboarding & Produktdatenmanagement** @ [Shöpping.at](https://www.shoepping.at) (Jän. 2022 - heute)
+- Abteilungsleitung (3 Pers.)
+- Recruiting/HR
+- Optimierung Kunden-Onboarding Prozess (Performancesteigerung > 50%)
+- Einführung Reporting (Power BI)
+- Partnermanagement Dienstleister, Drittsysteme, Payment Provider
 
-**Senior Onboarding Manager** (Jänner 2021 - Dezember 2021)<br>
-Post E-Commerce GmbH - shöpping.at 
+**Senior Onboarding Manager** @ [Shöpping.at](https://www.shoepping.at) (Jän. 2021 - Dez. 2021)
+- (Techn.) Key Account Management (Großkunden)
+- Verantwortung & Organisation Produktdatenmanagement
+- Koordination Partnermanagement Drittsysteme
 
-**Onboarding Manager** (Oktober 2018 - Dezember 2020)<br>
-Post E-Commerce GmbH - shöpping.at 
+**Onboarding Manager** @ [Shöpping.at](https://www.shoepping.at) (Okt. 2018 - Dez. 2020)<br>
+- Techn. Account Management
+- Produktdatenmanagement
+- Consulting E-Commerce
+- Prozess-Optimierung (intern)
+- Koordination Entwicklung Drittsysteme
 
-**Projekt Manager** (Mai 2018 - Oktober 2018) <br>
-Sonderwunsch Meister GmbH 
+**Projekt Manager** @ [PROPSTER](https://propster.tech) (Mai 2018 - Okt. 2018) <br>
+- Tech. Account Management
+- Teamlead (Freelancer, 3. Pers.)
 
-**Software Engineer** (Oktober 2017 - März 2018)<br>
-Lunatone Industrielle Elektronik GmbH (Oktober 2017 - März 2018)
+**Software Engineer** @ [Lunatone](https://www.lunatone.com) (Okt. 2017 - Mär. 2018) <br>
+- Konzeption & Koordination B2B E-Commerce Plattform
+- Produktdatenmanagement
+- Content Management
+- Entwicklung Smarthome Desktop-App
 <br><br>
 ## 🔨 Kenntnisse
 |||||
@@ -35,8 +49,7 @@ Lunatone Industrielle Elektronik GmbH (Oktober 2017 - März 2018)
 |Data Analysis|⭐⭐⭐⭐⭐|R|⭐⭐⭐⭐⭐|
 |Datenbanken SQL/NoSQL|⭐⭐⭐⭐⭐|Softwareentwicklung|⭐⭐⭐⭐|
 |Power BI|⭐⭐⭐⭐|Information Design|⭐⭐⭐⭐|
-
-<br><br>
+<br>
 ## 💬 Sprachen 
 🇩🇪 **Deutsch**: Muttersprache <br>
 🇺🇸 **Englisch**: C1
@@ -44,6 +57,9 @@ Lunatone Industrielle Elektronik GmbH (Oktober 2017 - März 2018)
 ## 📚 Ausbildung
 **Informationstechnologie - Medientechnik** <br>
 TGM HTBLVA Wien XX (2010-2016) <br>
+
+**Gamification - Creating Addictive User Experiences** <br>
+Interaction Design Foundation (IxDF)
 
 **Rettungssanitäter** <br>
  Arbeiter Samariterbund (2016-2017)
